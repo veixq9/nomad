@@ -4,7 +4,8 @@
  (let [title "nomad"
        title-note "when politics of geo-territorial states ..."
        data {
-             :links {"https://kaeltehilfe-berlin.de/" #{:berlin}
+             :links {"https://www.deutsche-stiftung-engagement-und-ehrenamt.de/" nil
+                     "https://kaeltehilfe-berlin.de/" #{:berlin}
                      "https://unter-druck.de" #{:berlin}
                      "https://www.youtube.com/@SoftWhiteUnderbelly" nil
                      "https://www.amazon.de/-/en/Giorgio-Agamben/dp/0804732183" nil
